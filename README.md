@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuditPathak20
+- 👋 Hi, I’m @MuditPandit20
 - 👀 I’m interested in C,C++,JAVA,JAVASCRIPT and ANDROID DEVLOPMENT.
 - 🌱 I’m currently learning C AND FULL STACK.
 - 💞️ I’m looking to collaborate on JAVASCRIPT AND ANDROID DEVLOPMENT.
